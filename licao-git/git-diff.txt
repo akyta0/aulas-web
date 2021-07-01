@@ -1,0 +1,5 @@
+1ª A diferença entre os comandos git add -A e git add.
+	O comando "git add" adiciona todos os elementos novos e modificados a proxima snapshot (versao instantanea). Enquanto o comando "git add -A" adiciona tudo tanto elemento novo e ou modificado quando os removidos.
+
+2ª Como podemos desfazer/reverter um commit
+	Utilizando o comando "git reset" na branch desejada.
